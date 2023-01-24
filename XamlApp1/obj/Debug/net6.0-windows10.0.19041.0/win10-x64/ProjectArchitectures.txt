@@ -1,0 +1,1 @@
+C:\Users\meleg\Desktop\XamlApp4\XamlApp1\XamlApp1.csproj;x64
